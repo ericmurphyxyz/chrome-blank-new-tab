@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Blank page on new tab.",
-  "homepage_url": "https://caiogondim.com",
+  "homepage_url": "https://ericnmurphy.com",
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   }
